@@ -1,4 +1,4 @@
-#Tue Jul 07 17:34:14 IST 2020
-base.0=/home/ib-tech-20/Desktop/ib-rn-ts-boilerplate/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Sat Jul 11 11:03:16 IST 2020
+base.0=/home/ib-tech-20/Desktop/react-native-first/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 path.0=classes.dex

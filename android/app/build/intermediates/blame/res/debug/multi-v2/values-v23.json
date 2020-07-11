@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ib-tech-20/Desktop/ib-rn-ts-boilerplate/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/home/ib-tech-20/Desktop/react-native-first/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/home/ib-tech-20/.gradle/caches/transforms-2/files-2.1/41ffb0b26ca82aaec8cb661961b2c67f/res/values-v23/values-v23.xml",
